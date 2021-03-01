@@ -1,0 +1,57 @@
+flower_classes = {0: 'alpine sea holly', 1: 'anthurium', 2: 'artichoke', 3: 'azalea',
+           4: 'ball moss', 5: 'balloon flower', 6: 'barbeton daisy', 7: 'bearded iris', 8: 'bee balm',
+           9: 'bird of paradise',
+           10: 'bishop of llandaff', 11: 'black-eyed susan', 12: 'blackberry lily', 13: 'blanket flower',
+           14: 'bolero deep blue',
+           15: 'bougainvillea', 16: 'bromelia', 17: 'buttercup', 18: 'californian poppy', 19: 'camellia',
+           20: 'canna lily', 21: 'canterbury bells', 22: 'cape flower', 23: 'carnation', 24: 'cautleya spicate',
+           25: ' clematis', 26: ' colt foot', 27: 'columbine', 28: ' common dandelion', 29: 'corn poppy',
+           30: 'cyclamen', 31: 'daffodil', 32: 'desert-rose', 33: 'english marigold', 34: 'fire lily',
+           35: 'foxglove', 36: 'frangipani', 37: 'fritillary', 38: 'garden phlox', 39: 'gaura',
+           40: 'gazania', 41: 'geranium', 42: 'giant white arum lily', 43: 'globe thistle', 44: 'globe flower',
+           45: 'grape hyacinth', 46: 'great masterwort', 47: 'hard-leaved pocket orchid', 48: 'hibiscus',
+           49: 'hippeastrum',
+           50: 'japanese anamone', 51: 'king protea', 52: 'lenten rose', 53: 'lotus lotus', 54: 'love in the mist',
+           55: 'magnolia', 56: 'mallow', 57: 'marigold', 58: 'mexican aster', 59: 'mexican petunia',
+           60: 'monkshood', 61: 'moon orchid', 62: 'morning glory', 63: 'orange dahlia', 64: 'osteospermum',
+           65: 'oxeye daisy', 66: 'passion flower', 67: 'pelargonium', 68: 'peruvian lily', 69: 'petunia',
+           70: 'pincushion flower', 71: 'pink primrose', 72: 'pink-yellow dahlia', 73: 'poinsettia', 74: 'primula',
+           75: 'prince of wales feathers', 76: 'purple coneflower', 77: 'red ginger', 78: 'rose',
+           79: 'ruby-lipped cattleya',
+           80: 'siam tulip', 81: 'silverbush', 82: 'snapdragon', 83: 'spear thistle', 84: 'spring crocus',
+           85: 'stemless gentiam', 86: 'sunflower', 87: 'sweet pea', 88: 'sweet william', 89: 'sword lily',
+           90: 'thorn apple', 91: 'tiger lily', 92: 'toad lily', 93: 'tree mallow', 94: 'tree poppy',
+           95: 'trumpet creeper', 96: 'wallflower', 97: 'water lily', 98: 'watercress', 99: 'wild pansy',
+           100: 'windflower', 101: 'yellow iris'}
+
+tyre_classes = {0: 'bad tyre', 1: 'fairly used type', 2: 'new tyre'}
+
+classes = {0: 'Apple_Braeburn', 1: 'Apple_Golden_1', 2: 'Apple_Golden_2', 3: 'Apple_Golden_3',
+           4: 'Apple_Granny_Smith', 5: 'Apple_Red_1', 6: 'Apple_Red_2', 7: 'Apple_Red_3', 8: 'Apple_Red_Delicious',
+           9: 'Apple_Red_Yellow', 10: 'Apricot', 11: 'Avocado',
+           12: 'Avocado_ripe', 13: 'Banana', 14: 'Banana_Red', 15: 'Cactus_Fruit',
+           16: 'Cantaloupe_1', 17: 'Cantaloupe_2', 18: 'Carambula', 19: 'Cherry_1',
+           20: 'Cherry_2', 21: 'Cherry_Rainier',
+           22: 'Cherry_Wax_Black', 23: 'Cherry_Wax_Red', 24: 'Cherry_Wax_Yellow', 25: 'Clementine', 26: 'Cocos',
+           27: 'Dates',
+           28: 'Granadilla', 29: 'Grape_Blue', 30: 'Grape_Pink', 31: 'Grape_White', 32: 'Grape_White_2',
+           33: 'Grapefruit_Pink',
+           34: 'GrapeFruit_White', 35: 'Guava', 36: 'Huckleberry', 37: 'Kaki', 38: 'Kiwi', 39: 'Kumquats', 40: 'Lemon',
+           41: 'Lemon_Meyer',
+           42: 'Limes', 43: 'Lychee', 44: 'Mandarine', 45: 'Mango', 46: 'Maracuja', 47: 'Melon_Piel_de_Sapo',
+           48: 'Mulberry', 49: 'Nectarine',
+           50: 'Orange', 51: 'Papaya', 52: 'Passion_Fruit', 53: 'Peach', 54: 'Peach_Flat', 55: 'Pear', 56: 'Pear_Abate',
+           57: 'Pear_Monster',
+           58: 'Pear_Williams', 59: 'Pepino', 60: 'Physalis', 61: 'Physalis_with_Husk', 62: 'Pineapple',
+           63: 'Pineapple_Mini',
+           64: 'Pitahaya_Red', 65: 'Plum', 66: 'Pomegranate', 67: 'Quince', 68: 'Rambutan', 69: 'Raspberry',
+           70: 'Redcurrant', 71: 'Salak',
+           72: 'Strawberry', 73: 'Strawberry_Wedge', 74: 'Tamarillo', 75: 'Tangelo', 76: 'Tomato_1', 77: 'Tomato_2',
+           78: 'Tomato_3',
+           79: 'Tomato_4', 80: 'Tomato_Cherry_Red', 81: 'Tomato_Maroon', 82: 'Walnut'}
+
+
+fruit_classes = {0: 'Apple Braeburn', 1: 'Apple Crimson Snow', 2:'Apple Golden 1', 3:'Apple Golden 2'
+                    , 4:'Apple Golden 3', 5:'Apple Granny Smith', 6:'Apple Pink Lady', 7:'Apple Red 1', 8:'Apple Red 2',
+                 9:'Apple Red 3', 10: 'Apple Red Delicious', ('Apple Red Yellow 1', 11), ('Apple Red Yellow 2', 12), ('Apricot', 13), ('Avocado', 14), ('Avocado ripe', 15), ('Banana', 16), ('Banana Lady Finger', 17), ('Banana Red', 18), ('Beetroot', 19), ('Blueberry', 20), ('Cactus fruit', 21), ('Cantaloupe 1', 22), ('Cantaloupe 2', 23), ('Carambula', 24), ('Cauliflower', 25), ('Cherry 1', 26), ('Cherry 2', 27), ('Cherry Rainier', 28), ('Cherry Wax Black', 29), ('Cherry Wax Red', 30), ('Cherry Wax Yellow', 31), ('Chestnut', 32), ('Clementine', 33), ('Cocos', 34), ('Corn', 35), ('Corn Husk', 36), ('Cucumber Ripe', 37), ('Cucumber Ripe 2', 38), ('Dates', 39), ('Eggplant', 40), ('Fig', 41), ('Ginger Root', 42), ('Granadilla', 43), ('Grape Blue', 44), ('Grape Pink', 45), ('Grape White', 46), ('Grape White 2', 47), ('Grape White 3', 48), ('Grape White 4', 49), ('Grapefruit Pink', 50), ('Grapefruit White', 51), ('Guava', 52), ('Hazelnut', 53), ('Huckleberry', 54), ('Kaki', 55), ('Kiwi', 56), ('Kohlrabi', 57), ('Kumquats', 58), ('Lemon', 59), ('Lemon Meyer', 60), ('Limes', 61), ('Lychee', 62), ('Mandarine', 63), ('Mango', 64), ('Mango Red', 65), ('Mangostan', 66), ('Maracuja', 67), ('Melon Piel de Sapo', 68), ('Mulberry', 69), ('Nectarine', 70), ('Nectarine Flat', 71), ('Nut Forest', 72), ('Nut Pecan', 73), ('Onion Red', 74), ('Onion Red Peeled', 75), ('Onion White', 76), ('Orange', 77), ('Papaya', 78), ('Passion Fruit', 79), ('Peach', 80), ('Peach 2', 81), ('Peach Flat', 82), ('Pear', 83), ('Pear 2', 84), ('Pear Abate', 85), ('Pear Forelle', 86), ('Pear Kaiser', 87), ('Pear Monster', 88), ('Pear Red', 89), ('Pear Stone', 90), ('Pear Williams', 91), ('Pepino', 92), ('Pepper Green', 93), ('Pepper Orange', 94), ('Pepper Red', 95), ('Pepper Yellow', 96), ('Physalis', 97), ('Physalis with Husk', 98), ('Pineapple', 99), ('Pineapple Mini', 100), ('Pitahaya Red', 101), ('Plum', 102), ('Plum 2', 103), ('Plum 3', 104), ('Pomegranate', 105), ('Pomelo Sweetie', 106), ('Potato Red', 107), ('Potato Red Washed', 108), ('Potato Sweet', 109), ('Potato White', 110), ('Quince', 111), ('Rambutan', 112), ('Raspberry', 113), ('Redcurrant', 114), ('Salak', 115), ('Strawberry', 116), ('Strawberry Wedge', 117), ('Tamarillo', 118), ('Tangelo', 119), ('Tomato 1', 120), ('Tomato 2', 121), ('Tomato 3', 122), ('Tomato 4', 123), ('Tomato Cherry Red', 124), ('Tomato Heart', 125), ('Tomato Maroon', 126), ('Tomato Yellow', 127), ('Tomato not Ripened', 128), ('Walnut', 129), ('Watermelon', 130)])
+
