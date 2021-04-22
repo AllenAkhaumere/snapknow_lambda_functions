@@ -81,7 +81,7 @@ def inference_handler(event, context):
     return {'Response': fruit_response}
 
 def test_fruit(url):
-    fruit_index_to_name = load_json('/home/allen/SnapKnow Deploy/data/fruit_to_name.json')
+    fruit_index_to_name = load_json('/home/iallen/SnapKnow Deploy/data/fruit_to_name.json')
     fruit_recog = fruit_model(model_dir='/home/allen/SnapKnow Deploy/data/fruit_best_model.pth')
 
     image = Image.open(urllib.request.urlopen(url))

@@ -12,6 +12,7 @@ logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
 
+
 image_transforms = transforms.Compose([
     transforms.Resize(224),
     transforms.CenterCrop(224),
