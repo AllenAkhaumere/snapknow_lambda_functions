@@ -1,4 +1,3 @@
-import yolov5
 from io import BytesIO
 from PIL import Image
 import base64
@@ -9,7 +8,7 @@ import torch
 def test_yolo(url):
     model_path = "/home/allen/Dataset/tyre_damaged.pt"
     model = torch.hub.load('ultralytics/yolov5', 'custom', path=model_path)  # custom model
-    model.conf = 0.7
+    model.conf = 0.4
     image = url
     #image = Image.open(urllib.request.urlopen(url))
     results = model(image, augment=True, size=640)
