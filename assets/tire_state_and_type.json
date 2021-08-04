@@ -1,8 +1,8 @@
-{"0": "bicycle tire",
-    "1": "car tire",
-    "2": "damage spotted",
-    "3": "flat tire",
-    "4": "good tread",
-    "5": "tractor tire"
+{"5": "good_tread",
+    "6": "tractor_tire",
+    "3": "damage_spotted",
+    "4": "flat_tire",
+    "1": "bicycle_tire",
+    "2": "car_tire"
 }
 
